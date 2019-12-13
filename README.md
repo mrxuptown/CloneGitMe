@@ -1,0 +1,2 @@
+# CloneGitMe
+Git cloning script
